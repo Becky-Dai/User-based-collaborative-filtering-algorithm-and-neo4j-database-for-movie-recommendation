@@ -30,3 +30,7 @@ The processed data is under datasets_out.
 I'm using Django's framework, so I wrote all the specific code in pyneo_utils.py
 
 我用的是Django的框架，所以我把具体的代码都写在了pyneo_utils.py里面
+
+The exact usage and comments are clearly and detailed in pyneo_utils.py.
+
+具体的用法和注释都被清楚且详细地写在了pyneo_utils.py里面。
