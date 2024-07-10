@@ -34,3 +34,7 @@ I'm using Django's framework, so I wrote all the specific code in pyneo_utils.py
 The exact usage and comments are clearly and detailed in pyneo_utils.py.
 
 具体的用法和注释都被清楚且详细地写在了pyneo_utils.py里面。
+
+The most important code about this project has been shown in the appropriate folder, while the rest of the part about Django setup has been omitted, and the project can be basically restored based on these main codes. If you want to get the full code please contact: beckydai2023@foxmail.com
+
+关于这个项目的最主要的代码已经在相应的文件夹下进行了展示，而其余的关于Django的设置部分就省略了，根据这些主要代码基本上可以还原这个项目。如果想获取全部的代码请联系：beckydai2023@foxmail.com
