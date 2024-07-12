@@ -1,7 +1,7 @@
 # User-based-collaborative-filtering-algorithm-and-neo4j-database-for-movie-recommendation
-User-based collaborative filtering algorithm and neo4j database for movie recommendation  
+User-based collaborative filtering algorithm and neo4j database for movie recommendation (full-stack project)
 
-基于用户的协同过滤算法和neo4j数据库的电影推荐
+基于用户的协同过滤算法和neo4j数据库的电影推荐全栈项目
 
 # The 1st step : the data processing work
 
